@@ -103,7 +103,7 @@ Unidades de medida: Prueba diferentes unidades de medida para las propiedades de
 
 # Preguntas:
 - ¿Qué es la propiedad margin?.
-- ¿Qué es la propiedad padding?
+- ¿Qué es la propiedad padding?.
 - ¿Qué es la propiedad border?
 - ¿Qué es la propiedad border-radius?
 - ¿Qué unidades de medida se pueden utilizar para las propiedades de espaciado?
