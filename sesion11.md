@@ -19,7 +19,7 @@
 
 
 
-# solucion
+# SOLUCION
 
 ```html
 <!DOCTYPE html>
